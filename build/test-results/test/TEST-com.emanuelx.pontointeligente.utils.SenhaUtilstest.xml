@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.emanuelx.pontointeligente.utils.SenhaUtilstest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-15T23:11:51" hostname="Terminator.local" time="0.233">
+  <properties/>
+  <testcase name="testGerarHashSenha()" classname="com.emanuelx.pontointeligente.utils.SenhaUtilstest" time="0.233"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
