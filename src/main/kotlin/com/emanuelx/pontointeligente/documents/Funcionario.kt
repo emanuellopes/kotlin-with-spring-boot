@@ -3,6 +3,7 @@ package com.emanuelx.pontointeligente.documents
 import com.emanuelx.pontointeligente.enums.PerfilEnum
 import org.springframework.data.annotation.Id
 import org.springframework.data.mongodb.core.mapping.Document
+import org.springframework.data.mongodb.core.mapping.Field
 
 @Document
 data class Funcionario(
